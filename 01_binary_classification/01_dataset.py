@@ -39,7 +39,7 @@ y = np.array([
 # Model parameters
 # ==========================================
 
-w = np.array([0.5, 0.5])
+w = np.array([1, 1])
 b = -5.0
 
 
